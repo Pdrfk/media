@@ -1,0 +1,59 @@
+body {
+
+margin: 0%;
+
+
+}
+header {
+    
+text-align: center;
+    margin: 0px;
+    background: rgb(180,140,58);
+    background: linear-gradient(90deg, rgba(180,140,58,1) 0%, rgba(253,29,97,1) 52%, rgba(69,76,252,1) 91%);
+margin-bottom: 15px;
+}
+
+h1 {
+    margin: 0px;
+padding: 35px;
+font-size: 40px;
+color: #fff;
+
+}
+
+.form{
+    width: 25%;
+height: 70%;
+background: rgb(180,140,58);
+background: linear-gradient(90deg, rgba(180,140,58,1) 0%, rgba(253,29,97,1) 52%, rgba(69,76,252,1) 91%);
+    text-align: center;
+    padding-top: 35px ;
+    padding-bottom: 50px;
+    border-radius: 16px;
+box-shadow: blue;
+color: #fff;
+margin: 25px;
+font-size: 33px;
+
+}
+
+.principal {
+ display: grid;
+place-items: center;
+min-height: 70vh;
+   
+}
+
+.input {
+
+border-radius: 16px;
+
+
+}
+
+.botao {
+
+font-size: 50px;
+
+}
+
